@@ -34,7 +34,7 @@ const Hero = () => {
         )}
       </div>
     </div>
-    <img className='h-[40rem] w-[48rem]' src="../../public/img/Mask Group.png" alt="" />
+    <img className='h-[40rem] w-[48rem]' src="./img/Mask Group.png" alt="" />
     </section>
   );
 };

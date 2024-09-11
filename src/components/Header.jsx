@@ -20,7 +20,7 @@ const Header = () => {
 
   return (
     <header className="container mx-auto p-4 flex justify-between items-center">
-      <img src="../../public/Logo.svg" alt="" />
+      <img src="./Logo.svg" alt="" />
       <div className="flex gap-4">
       <button onClick={handleLanguageChange}>
           {language === 'en' ? 'Uzbek' : 'English'}
